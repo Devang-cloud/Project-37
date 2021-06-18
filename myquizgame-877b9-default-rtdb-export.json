@@ -1,0 +1,14 @@
+{
+  "contestantCount" : 2,
+  "contestants" : {
+    "contestant1" : {
+      "answer" : "2",
+      "name" : "Devang"
+    },
+    "contestant2" : {
+      "answer" : "4",
+      "name" : "D"
+    }
+  },
+  "gameState" : 1
+}
